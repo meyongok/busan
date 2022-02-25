@@ -149,12 +149,13 @@ padding:30px 0; position: relative;/*화살표 기준*/  border-radius: 30px 0px
 .brandimg{ float: left; width: 50%; display: block; border-radius: 30px 0px 0px 0px; box-shadow: 5px 5px 5px rgba(0,0,0,0.3) }
 .brandtext{ float: right; width: 50% ;height: 661px; background-color: #fbf2ee; padding:100px 20px;  box-sizing: border-box; border-radius:0px  0px 30px 0px; box-shadow: 5px 5px 5px rgba(0,0,0,0.3)}
 .bimg{ display: block; border-radius: 30px 0px 0px 0px;}
-h3{ font-size: 18px; text-align: center; padding: 15px 0 30px;}
-h1{ font-size: 35px; font-weight: bold;  text-align: center; padding: 80px 0 30px;}
+h3{ font-size: 18px; text-align: center; padding: 20px 0 30px;}
+h1{ font-size: 35px; font-weight: bold;  text-align: center; padding: 100px 0 30px;}
 .brandtext p{ font-size: 16px; padding:20px ;  text-align: left;  line-height: 25px;}
 
 
-#event{ clear: both; margin: 0 auto; width: 1320px; height: 1050px;}
+#event{ clear: both; margin: 0 auto; width: 1320px; height: 800
+  px;}
 
 
 .btn2{display:inline-block; background-color: white; color: #744f49;
@@ -180,7 +181,7 @@ h1{ font-size: 35px; font-weight: bold;  text-align: center; padding: 80px 0 30p
 
 
 #sc{ clear: both; margin: 0 auto; width: 1320px;    }
-.contents2{border-radius: 30px 0px;  background-color:#fbf2ee ; box-shadow: 5px 5px 5px rgba(0,0,0,0.3); height: 920px;}
+.contents2{border-radius: 30px 0px;  background-color:#fbf2ee ; box-shadow: 5px 5px 5px rgba(0,0,0,0.3); height: 900px;}
 
 .sctext{ margin: 0 auto; width: 1320px; 
     height: 350px; padding: 20px; padding-top: 50px; box-sizing: border-box;}
@@ -240,14 +241,15 @@ ul li a:hover .bottom{top:52%;}
 
  #footer{clear: both;
   background:#522b19;
-  height:150px;
-  padding:30px 0;
+  height:170px;
+  
 }
 
  
 #footer_inner{
   width:1320px;
   margin:0 auto;
+  padding-top: 30px;
 }
 
 .copyright ul li{
